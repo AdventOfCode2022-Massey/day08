@@ -1,9 +1,11 @@
 # Advent of Code 2022: Day 8
-Ben and Bart Massey
+Bart Massey
 
 ---
 
-*Your notes here.*
+Fairly interesting trying to get the types right and the
+code size reasonable. Fairly straightforward except for dumb
+stuff.
 
 ---
 
